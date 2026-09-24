@@ -24,7 +24,7 @@ Below is your complete **PortSwigger Academy Master Roadmap**, built directly fr
 
 ## Phase 1 — Core Server-Side Vulnerabilities
 
-* **Topics**: Path Traversai, OS Command Injection, Information Disclosure, Business Logic Vulnerabilities 4 ...[cite: 4].
+* **Topics**: ✅ Path Traversai, ⏳ OS Command Injection, ⏳ Information Disclosure, ⏳ Business Logic Vulnerabilities 4 ...[cite: 4].
 * **Learning Materials**: PortSwigger Server-Side Vulnerability Modules 7 ...[cite: 4].
 * **Apprentice Labs**:
   * *Path Traversal*: File path traversal, simple case 10[cite: 4].
